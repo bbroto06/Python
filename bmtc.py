@@ -16,6 +16,7 @@ def getURL(page):
         return None, 0
     start_quote = page.find('KIAS-8', start_link)
     end_quote = page.find('KIAS-9', start_quote + 1)
+    # extract information for KIAS-8
     url = page[start_quote + 1: end_quote]
     return url, end_quote
 
