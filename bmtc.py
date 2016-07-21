@@ -11,11 +11,6 @@ page = str(BeautifulSoup(response.content))
 
 
 def getURL(page):
-    """
-
-    :param page: html of web page (here: Python home page) 
-    :return: urls in that page 
-    """
     start_link = page.find("a href")
     if start_link == -1:
         return None, 0
@@ -27,6 +22,7 @@ def getURL(page):
 while True:
     url, n = getURL(page)
     page = page[n:]
+    # regular expression to remove html tags
     tag_re = re.compile(r'(<!--.*?-->|<[^>]*>)')
     if url:
         no_tags = tag_re.sub('', url)
