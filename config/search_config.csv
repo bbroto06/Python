@@ -1,0 +1,4 @@
+Key,Value
+Default_File_To_Read_Paragraph,times_of_india.txt
+Default_File_To_Read_Search_Strings,search_strings.csv
+Default_File_To_Write_Matching_Sentences,matching_sentences.csv
