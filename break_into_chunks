@@ -1,0 +1,5 @@
+list = []
+for chunk in  pd.read_csv(filename, sep=';', chunksize=10000):
+    list.append(chunk)
+df = pd.concat(list, axis= 0)
+del mylist #we dont need this anymore as we have got dataframe df
