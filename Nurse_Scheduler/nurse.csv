@@ -1,0 +1,10 @@
+NurseId,LastName,FirstName,Designation,Qualification,LicenseNumber,BirthDate,HireDate,Address,City,State,Country,PostalCode,Phone,Email,Department,Availability,Shift
+N1,Adams,Andrew,Certified Nursing Assistants (CNA),Associate Degree in Nursing (ADN),555111,1988-02-18 0:00,2002-08-14 0:00,11120 Jasper Ave NW,Montreal,QC,Canada,H3A 1E1,7904289482,andrew.adams.qc@gmail.com,Gynecology,Weekday,Day
+N2,Rogers,Mark,Certified Nursing Assistants (CNA),Associate Degree in Nursing (ADN),999111,1997-12-08 0:00,2001-08-14 0:00,956 Mont Ave NW,Montreal,QC,Canada,H3V 2X2,7804289482,mark@gmail.com,Neurology,Weekday,Night
+N3,Edwards,Nancy,Licensed Practical Nurse (LPN),Bachelor of Science in Nursing,333111,1998-12-08 0:00,2002-05-01 0:00,825 8 Ave SW,Verdun,QC,Canada,H2X 1E2,4032623443,nancy@gmail.com,Neurology,Weekday,Night
+N4,Peacock,Jane,Registered Nurse (RN),Bachelor of Science in Nursing,222111,1999-08-29 0:00,2002-04-01 0:00,1111 6 Ave SW,Brossard,QC,Canada,H3B 9E7,4032613443,jane@gmail.com,Oncology,Weekend,Day
+N5,Park,Margaret,Advanced Practice Registered Nurses (APRNs),Doctor of Nursing Practice (DNP),111222,1980-09-19 0:00,2003-05-03 0:00,683 10 Street SW,Montreal,QC,Canada,H3Y 1E5,4032634423,margaret@gmail.com,Oncology,Weekend,Day
+N6,Johnson,Steve,Registered Nurse (RN),Bachelor of Science in Nursing,444111,1989-03-03 0:00,2003-10-17 0:00,7727B 41 Ave,Gaineau,QC,Canada,H3C 1E6,7808369987,steve@gmail.com,Neurology,Weekend,Night
+N7,Mitchell,Michael,Licensed Practical Nurse (LPN),Bachelor of Science in Nursing,666111,1999-07-01 0:00,2003-10-17 0:00,5827 Bowness Road NW,Montreal,QC,Canada,H3A 1E6,4032469887,michael@gmail.com,Gynecology,Weekday,Night
+N8,King,Robert,Licensed Practical Nurse (LPN),Associate Degree in Nursing (ADN),777111,1998-05-29 0:00,2004-01-02 0:00,590 Columbia Boulevard West,Montreal,QC,Canada,H3R 1E4,4034569986,robert@gmail.com,Oncology,Weekday,Day
+N9,Callahan,Laura,Certified Nursing Assistants (CNA),Associate Degree in Nursing (ADN),888111,1989-01-09 0:00,2004-03-04 0:00,923 7 ST NW,Montreal,QC,Canada,H3D 1E8,4034673351,laura@gmail.com,Urology,Weekend,Night
