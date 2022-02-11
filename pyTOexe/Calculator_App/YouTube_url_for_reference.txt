@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=lOIJIk_maO4
+
+
+pyinstaller -F -w calculator.py
+
+pyinstaller --onefile -F -w main.py
+
+pyinstaller --onefile -F -w --windowed WeatherApp.py
