@@ -1,0 +1,7 @@
+HospitalId,Name,Address,City,State,Country,PostalCode,Phone,Email,Quantity,Department,Availability,Shift
+H1,St. Mary's Hospital,3830 Avenue Lacombe,Montreal,QC,Canada,H3T 1M5,5143453511,stmary@gmail.com,2,Gynecology,Weekday,Day
+H1,St. Mary's Hospital,3830 Avenue Lacombe,Montreal,QC,Canada,H3T 1M5,5143453511,stmary@gmail.com,1,Gynecology,Weekend,Day
+H2,Jewish General Hospital,3755 Chemin de la Cote Sainte Catherine,Montreal,QC,Canada,H3T 1E2,5143408222,jewish@gmail.com,1,Neurology,Weekday,Night
+H3,Montreal General Hospital,1650 Cedar Ave,Montreal,QC,Canada,H3G 1A4,5149341934,montreal@gmail.com,3,Neurology,Weekday,Day
+H3,Montreal General Hospital,1651 Cedar Ave,Montreal,QC,Canada,H3G 1A4,5149341935,montreal@gmail.com,2,Oncology,Weekday,Day
+H4,Royal Victoria Hospital,1001 Decarie Blvd,Montreal,QC,Canada,H4A 3J1,5149341934,royal@gmail.com,1,Oncology,Weekend,Night
